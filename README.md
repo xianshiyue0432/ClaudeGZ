@@ -10,7 +10,7 @@
 
 </div>
 
-基于 Claude Code 泄露源码修复的**本地可运行版本**，支持接入任意 Anthropic 兼容 API（MiniMax、OpenRouter 等）。在完整 TUI 之外，还补全了 Computer Use、打造了图形化**桌面端**，并支持通过 Telegram / 飞书**完整远程驱动**，增加支持语音识别功能、文件管理功能，集成了完整的代码编辑器。
+智能编程助手桌面版-界面和功能升级的独立版本-支持接入任意 Anthropic 兼容 API（MiniMax、OpenRouter 等），在完整 TUI 之外，还补全了 Computer Use、打造了图形化**桌面端**，并支持通过 Telegram / 飞书**完整远程驱动**，增加多任务会话管理、token成本管理、支持语音识别功能、文件管理功能，集成了完整的代码编辑器。（基于 Claude Code 泄露源码修复的**本地可运行版本**）
 
 
 ---
@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="images/desktop_ui/01_full_ui.png" alt="主界面"><br><b>主界面</b></td>
+    <td align="center" width="25%"><img src="images/desktop_ui/01_full_ui.png" alt="多任务主界面"><br><b>多任务主界面</b></td>
     <td align="center" width="25%"><img src="images/desktop_ui/02_edit_code.png" alt="代码编辑"><br><b>代码编辑 & Diff 视图</b></td>
     <td align="center" width="25%"><img src="images/desktop_ui/03_ask_question_and_permission.png" alt="权限控制"><br><b>权限控制 & AI 提问</b></td>
     <td align="center" width="25%"><img src="images/desktop_ui/04_cost.png" alt="成本管理"><br><b>成本管理</b></td>
@@ -198,16 +198,16 @@ http://127.0.0.1:2024
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="docs/images/donate/wechat_pay.jpeg" width="250" alt="微信赞赏"><br>
+<img src="images/donate/wechat_pay.jpeg" width="250" alt="微信赞赏"><br>
 <b>微信赞赏</b>
 </td>
 <td align="center" width="33%">
-<img src="docs/images/donate/zfb_pay.png" width="250" alt="支付宝"><br>
+<img src="images/donate/zfb_pay.png" width="250" alt="支付宝"><br>
 <b>支付宝</b>
 </td>
 <td align="center" width="33%">
-<a href="https://buymeacoffee.com/relakkes" target="_blank">
-<img src="docs/images/donate/bmc_button.png" width="250" alt="Buy Me a Coffee">
+<a href="https://buymeacoffee.com/GZ" target="_blank">
+<img src="images/donate/bmc_button.png" width="250" alt="Buy Me a Coffee">
 </a><br>
 <b>Buy Me a Coffee</b>
 </td>
